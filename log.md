@@ -21,7 +21,7 @@
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts**Just feeling great when I finally solve an algorithm challenge after a lot of attempts and hours spent at home.
+**Thoughts**: Just feeling great when I finally solve an algorithm challenge after a lot of attempts and hours spent at home.
 
 **Link(s) to work**
 1. Basic Javascript from FreeCodeCamp.
@@ -31,7 +31,7 @@
 
 **Today's Progress**: I've gone through 6 exercises on FreeCodeCamp.
 
-**Thoughts** So hype up!
+**Thoughts**: So hype up!
 
 **Link(s) to work**
 1. Basic Javascript from FreeCodeCamp.(I'm revising)
