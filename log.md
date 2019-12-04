@@ -1,30 +1,38 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log of Round 1
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+# Day 1: December 1, Sunday 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Improved my Javascript debugging skills to be able to find bugs faster than before
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Felt awesome learning Js like a kid honestly...
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** Improving my website to be more dynamic(i'll work on flexibility soon).(https://nastylux.github.io)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: December 2,Monday 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Nothing much...just adding comments on my code for better understanding.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Feeling bit moody
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: just same with my website
 
 
-### Day 1: June 27, Monday
+### Day 3: June 3, Tuesday 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**Just feeling great when I finally solve an algorithm challenge after a lot of attempts and hours spent at home.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. Basic Javascript from FreeCodeCamp.
+
+
+### Day 4: June 4, Wednesday 2019
+
+**Today's Progress**: I've gone through 6 exercises on FreeCodeCamp.
+
+**Thoughts** So hype up!
+
+**Link(s) to work**
+1. Basic Javascript from FreeCodeCamp.(I'm revising)
+
