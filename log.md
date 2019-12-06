@@ -17,7 +17,7 @@
 **Link(s) to work**: just same with my website
 
 
-### Day 3: June 3, Tuesday 2019
+### Day 3: December 3, Tuesday 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -27,7 +27,7 @@
 1. Basic Javascript from FreeCodeCamp.
 
 
-### Day 4: June 4, Wednesday 2019
+### Day 4: December 4, Wednesday 2019
 
 **Today's Progress**: I've gone through 6 exercises on FreeCodeCamp.
 
@@ -36,3 +36,22 @@
 **Link(s) to work**
 1. Basic Javascript from FreeCodeCamp.(I'm revising)
 
+
+### Day 5: December 5, Thursday 2019
+
+**Today's Progress**: Been reading more resources from FreeCodeCamp.
+
+**Thoughts**: Kinda moody.
+
+**Link(s) to work**
+1. Basic Javascript from FreeCodeCamp.
+
+
+### Day 6: December 6, Friday 2019
+
+**Today's Progress**: Did some few exercises from FreeCodeCamp like a pro🙌🎶
+
+**Thoughts**: Wasn't stressed up today.
+
+**Link(s) to work**
+1. I'm still working on basic Javascript from FreeCodeCamp.
