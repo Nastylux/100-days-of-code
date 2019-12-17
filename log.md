@@ -104,3 +104,57 @@
 
 **Link(s) to work**
 1. I'm still working on basic Javascript from FreeCodeCamp.
+
+### Day 12: December 12, Thursday 2019
+
+**Today's Progress**: Usual study plans 
+
+**Thoughts**: Exams stress
+
+**Link(s) to work**
+1. I'm still working on basic Javascript from FreeCodeCamp.
+
+### Day 13: December 13, Friday 2019
+
+**Today's Progress**: Study some few tutorials from FreeCodeCamp.
+
+**Thoughts**: Exams stress
+
+**Link(s) to work**
+1. I'm still working on basic Javascript from FreeCodeCamp.
+
+### Day 14: December 14, Saturday 2019
+
+**Today's Progress**: Usual study tracks
+
+**Thoughts**: Exams stress
+
+**Link(s) to work**
+1. I'm still working on basic Javascript from FreeCodeCamp.
+
+### Day 15: December 15, Sunday 2019
+
+**Today's Progress**: Didn't code after i lost my uncle.
+
+**Thoughts**: Mourning...needed some days off to take care of his burial ceremony before i'll be back...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 16: December 16, Monday 2019
+
+**Today's Progress**: same as day 15
+
+**Thoughts**: Mourning...needed some days off to take care of his burial ceremony before i'll be back...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 17: December 17, Tuesday 2019
+
+**Today's Progress**: edit,developed and host a website for my younger brother(showing him how fun is coding)
+
+**Thoughts**: Mourning...
+
+**Link(s) to work**
+1.
