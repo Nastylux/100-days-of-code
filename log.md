@@ -336,3 +336,143 @@
 
 **Link(s) to work**
 1.**Nil
+
+### Day 35: January 4, Saturday 2019
+
+**Today's Progress**: Spend the whole frosty afternoon trying to solve the exercise under "Match a Literal String with Different Possibilities", I'd to used lot of resources from 
+@freeCodeCamp, 
+@MITOCW
+ and 
+@js_tut
+Just 'bout to eat out✌😂
+
+**Thoughts**: I'm eating rigt now...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 36: January 5, Sunday 2019
+
+**Today's Progress**: Nothing new...just trying to get a better understanding with the same topic as day 35.
+
+**Thoughts**: Bit moody...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 37: January 6, Monday 2019
+
+**Today's Progress**: Same as day 36
+
+**Thoughts**: Bit moody...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 38: January 7, Tuesday 2019
+
+**Today's Progress**: Few tutorials from freecodecamp and still on studying resources on the same topic as day 36
+
+**Thoughts**: I'm fasting, so no food for the rest of the day...
+
+**Link(s) to work**
+1.**Nil
+
+
+### Day 39: January 8, Wednesday 2019
+
+**Today's Progress**: Few tutorials from freecodecamp and still on studying resources on the same topic as day 36
+
+**Thoughts**: I'm fasting, so no food for the rest of the day...
+
+**Link(s) to work**
+1.**Nil
+
+
+### Day 40: January 9, Thursday 2019
+
+**Today's Progress**: Few tutorials from freecodecamp and still on studying resources on the same topic as day 36
+
+**Thoughts**: I'm fasting, so no food for the rest of the day...
+
+**Link(s) to work**
+1.**Nil
+
+
+### Day 41: January 10, Friday 2019
+
+**Today's Progress**: Few tutorials from freecodecamp and still on studying resources on the same topic as day 36
+
+**Thoughts**: I'm fasting, so no food for the rest of the day...
+
+**Link(s) to work**
+1.**Nil
+
+
+### Day 42: January 11, Saturday 2019
+
+**Today's Progress**:  Pray...🙏
+                              Eat...🍫🍫🍫
+                                      Code...🙂💻
+                                                  Gaming...🎮
+(https://github.com/Nastylux/You-Dont-Know-JS)
+
+
+**Thoughts**: I'm done fasting temporarily...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 43: January 12, Sunday 2019
+
+**Today's Progress**:  Same as day 42.
+
+**Thoughts**: Nothing new...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 44: January 13, Monday 2019
+
+**Today's Progress**:Nothing new, did few exercises from freecodecamp.
+
+**Thoughts**: Nothing new...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 45: January 14, Tuesday 2019
+
+**Today's Progress**:Nothing new, did few exercises from freecodecamp.
+
+**Thoughts**: Nothing new...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 46: January 15, Wednesday 2019
+
+**Today's Progress**:Nothing new, did few exercises from freecodecamp.
+
+**Thoughts**: Nothing new...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 47: January 16, Thursday 2019
+
+**Today's Progress**:Nothing new, did few exercises from freecodecamp.
+
+**Thoughts**: Nothing new...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 48: January 17, Friday 2019
+
+**Today's Progress**:Nothing new, did few exercises from freecodecamp.
+
+**Thoughts**: Nothing new...
+
+**Link(s) to work**
+1.**Nil
