@@ -158,3 +158,39 @@
 
 **Link(s) to work**
 1.
+
+### Day 18: December 18, Wednesday 2019
+
+**Today's Progress**: Skipped today 
+
+**Thoughts**: Mourning...needed some days off to take care of his burial ceremony before i'll be back...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 19: December 19, Thursday 2019
+
+**Today's Progress**: same as day 18
+
+**Thoughts**: Mourning...needed some days off to take care of his burial ceremony before i'll be back...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 20: December 20, Friday 2019
+
+**Today's Progress**: Just work on few execrises from freecodecamp.com
+
+**Thoughts**:I think i'll be fine...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 21: December 21, Saturday 2019
+
+**Today's Progress**: Just work on few execrises from freecodecamp.com
+
+**Thoughts**:Stil adapting...
+
+**Link(s) to work**
+1.**Nil
