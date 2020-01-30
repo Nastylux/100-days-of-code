@@ -259,10 +259,80 @@
 
 ### Day 27: December 27, Friday 2019
 
-**Today's Progress**:  Same as day 24.
+**Today's Progress**:  Usual plans
 
-**Thoughts**:Quiet Mood 'cuz the christmas vibe isn't kicking in...
+**Thoughts**: Quiet Mood...
 
 **Link(s) to work**
 1.**Nil
 
+### Day 28: December 28, Saturday 2019
+
+**Today's Progress**:  Same as day 27.
+
+**Thoughts**:Quiet Mood...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 29: December 29, Sunday 2019
+
+**Today's Progress**:   took my time alone with my room light switch off👻to study few #js tutorials from @samantha_ming
+ (https://github.com/samanthaming/freecodecamp-my-solutions/blob/master/basic-algorithm/13-falsy-bouncer.js ) after working some exercises from @freeCodeCamp.
+ 
+
+**Thoughts**:Excited as usual...
+
+**Link(s) to work**
+1.**Nil
+
+
+### Day 30: December 30, Monday 2019
+
+**Today's Progress**:  almost done with basic JavaScript, maybe I'll be done tonight.
+
+**Thoughts**: I'm hungry...
+
+**Link(s) to work**
+1.**Nil
+
+
+### Day 31: December 31, Tuesday 2019
+
+**Today's Progress**:  Nothing new, just few exercises from freecodecamp...
+
+**Thoughts**: I'm eating and coding right now...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 32: January 1, Wednesday 2019
+
+**Today's Progress**:  Spend lotta time learning deep how to "Create a Module Script" works with a childhood friend we met after 15 years✌ so much fun competing against each other who's good with ES6😒
+
+**Thoughts**: Who isn't hungry?
+
+**Link(s) to work**
+1.**Nil
+
+### Day 33: January 2, Thursday 2019
+
+**Today's Progress**:  Same as day 32.
+
+**Thoughts**: I'm not eating and coding simultaneously...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 34: January 3, Friday 2019
+
+**Today's Progress**:  study lot of tutorials and work some exercises from 
+@bitdegree_learn
+ before attempting "Introduction to the Regular Expression Challenges"  at 
+@freeCodeCamp
+ tonight...but for now, I gotta eat😂✌
+
+**Thoughts**: I'm eating and coding simultaneously...
+
+**Link(s) to work**
+1.**Nil
