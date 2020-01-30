@@ -194,3 +194,75 @@
 
 **Link(s) to work**
 1.**Nil
+
+
+### Day 22: December 22, Sunday 2019
+
+**Today's Progress**: Same as day 21
+
+**Thoughts**:Stil adapting...
+
+**Link(s) to work**
+1.**Nil
+
+
+### Day 23: December 23, Monday 2019
+
+**Today's Progress**: Work on few exercises from @edXOnline late to have time for invited guests preparing for Christmas stuffs.
+
+**Thoughts**:Warming up...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 24: December 24, Tuesday 2019
+
+**Today's Progress**:  Stay up studying more tutorials from @freeCodeCamp and @bitdegree_learn learning more 'bout multidimensional arrays on arithmetics from 10:58am to 5:30am.
+
+**Thoughts**:Quiet Mood 'cuz the new year isn't kicking in...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 25: December 25, Tuesday 2019
+
+**Today's Progress**:  Same as day 24.
+
+**Thoughts**:Quiet Mood 'cuz the christmas vibe isn't kicking in...
+
+**Link(s) to work**
+1.**Nil
+
+
+### Day 25: December 25, Wednesday 2019
+
+**Today's Progress**:  Same as day 24.
+
+**Thoughts**:Quiet Mood 'cuz the christmas vibe isn't kicking in...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 26: December 26, Thursday 2019
+
+**Today's Progress**:  Stay at home alone...🤐
+               Eat alone...😌
+               Spend money online...
+               Code alone...🙂
+               Sleep alone...😴
+               All day long...😶
+
+**Thoughts**:Same as yesterday...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 27: December 27, Friday 2019
+
+**Today's Progress**:  Same as day 24.
+
+**Thoughts**:Quiet Mood 'cuz the christmas vibe isn't kicking in...
+
+**Link(s) to work**
+1.**Nil
+
