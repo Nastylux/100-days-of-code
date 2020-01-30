@@ -476,3 +476,122 @@ Just 'bout to eat out✌😂
 
 **Link(s) to work**
 1.**Nil
+
+### Day 49: January 18, Saturday 2019
+
+**Today's Progress**:Nothing new, did few exercises from freecodecamp.
+
+**Thoughts**: Nothing new...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 50: January 19, Sunday 2019
+
+**Today's Progress**:Nothing new, did few exercises from freecodecamp.
+
+**Thoughts**: Nothing new...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 51: January 20, Monday 2019
+
+**Today's Progress**: Spending lot of time overnight with the team on codewars, project Euler and preparing for street Hackathon challenge in my community earlier...
+
+**Thoughts**: Nothing new...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 52: January 21, Tuesday 2019
+
+**Today's Progress**: Same as day 51
+
+**Thoughts**: Nothing new...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 53: January 22, Wednesday 2019
+
+**Today's Progress**:Nothing new, did few exercises from freecodecamp.
+
+**Thoughts**: Nothing new...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 54: January 23, Thursday 2019
+
+**Today's Progress**:Nothing new, did few exercises from freecodecamp.
+
+**Thoughts**: Nothing new...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 55: January 24, Friday 2019
+
+**Today's Progress**: Almost done with a client job...
+
+**Thoughts**: Planning something new in mind...
+
+**Link(s) to work**
+1.**Nil
+
+
+### Day 56: January 25, Saturday 2019
+
+**Today's Progress**: Almost done with a client job...
+
+**Thoughts**: Planning something new in mind...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 57: January 26, Sunday 2019
+
+**Today's Progress**: Successfully finished a client job yesterday...
+
+**Thoughts**: Planning something new in mind...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 58: January 27, Monday 2019
+
+**Today's Progress**: Nothing new, few exercises from freecodecamp.
+
+**Thoughts**:I'm meditating
+
+**Link(s) to work**
+1.**Nil
+
+
+### Day 59: January 28, Tuesday 2019
+
+**Today's Progress**: Nothing new, few exercises from freecodecamp.
+
+**Thoughts**:I'm meditating, will eat later and code later...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 60: January 29, Wednesday 2019
+
+**Today's Progress**: Nothing new, few exercises from freecodecamp.
+
+**Thoughts**:I'm meditating, will eat later and code later...
+
+**Link(s) to work**
+1.**Nil
+
+### Day 61: January 30, Thursday 2019
+
+**Today's Progress**: Nothing new, few exercises from freecodecamp.
+
+**Thoughts**:I'm meditating, will eat later and code later...
+
+**Link(s) to work**
+1.**Nil
